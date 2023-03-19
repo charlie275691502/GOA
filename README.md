@@ -1,5 +1,8 @@
 # GOA - An Online Board Game Made By Unity
 This project contains both the Client and Server sides. When you start the game, you need to choose either to start as a Host or to connect to the Host as a Client. You can specify your IP address in the input field.
+
+If you want to play this game, you can download the `GOA.exe` in the project folder.
+
 ![IP](https://user-images.githubusercontent.com/18097644/226150126-d36853f2-1225-4d4c-bc2d-673ae7e61ff1.PNG)
 
 # How To Play
