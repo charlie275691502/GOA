@@ -1,2 +1,1 @@
-# GOA
-An Online Board Game Made By Unity
+# GOA - An Online Board Game Made By Unity
