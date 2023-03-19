@@ -1,0 +1,8 @@
+name: mast
+version: 0.5.3
+dependencies: []
+files:
+- path: Assets/Plugins/Rayark/Mast/Rayark.Mast.dll
+  md5: C64cAXFVLzr5ZH73rKssEQ==
+- path: Assets/Plugins/Rayark/Mast/Rayark.Mast.dll.meta
+  md5: Hr/y3Fyqr0x13M9ogCdQGw==

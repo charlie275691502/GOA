@@ -1,0 +1,8 @@
+name: nsubstitute
+version: 1.5.8
+dependencies: []
+files:
+- path: Assets/Plugins/NSubstitute/NSubstitute.dll
+  md5: PgmmEUlr0/VsHLti2tnFEA==
+- path: Assets/Plugins/NSubstitute/NSubstitute.dll.meta
+  md5: 3c8HDZ6xMyDpARrXrHKrMg==
