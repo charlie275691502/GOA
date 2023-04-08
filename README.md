@@ -5,6 +5,8 @@ If you want to play this game, you can download the `GOA.exe` in the project fol
 
 ![IP](https://user-images.githubusercontent.com/18097644/226150126-d36853f2-1225-4d4c-bc2d-673ae7e61ff1.PNG)
 
+A new version of this game is currently under development, you can visit it by this [link](https://github.com/charlie275691502/GOAWebsocket)
+
 # How To Play
 ## Lobby
 After that, you will connect to a room, where you can wait for 3 ~ 5 players to join, or simply add more AI bots. Note that the AI bot used is very simple, it may not provide a high degree of user experience. Only the host player can start the game.
